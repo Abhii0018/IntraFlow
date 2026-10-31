@@ -1,0 +1,19 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# macOS and editor metadata
+.DS_Store
+.vscode/
+.idea/
+
+# Local tooling metadata
+.voltai/
+.superdesign/
